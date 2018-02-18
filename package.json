@@ -1,0 +1,21 @@
+{
+  "name": "form-generator-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olexandrp/form-generator-demo.git"
+  },
+  "keywords": [
+    "form",
+    "generator",
+    "demo"
+  ],
+  "author": "olexandr.petrov@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olexandrp/form-generator-demo/issues"
+  },
+  "homepage": "https://github.com/olexandrp/form-generator-demo#readme"
+}
