@@ -1,8 +1,6 @@
 {
   "name": "form-generator-demo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/olexandrp/form-generator-demo.git"
