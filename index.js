@@ -1,7 +1,7 @@
 var data = {
     first_name: 'Yazmin',
     last_name: 'Ferry',
-    birthday: '1998-02-17',
+    age: '31',
     email: 'Dovie72@hotmail.com'
 };
 
